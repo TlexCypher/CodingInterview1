@@ -8,9 +8,9 @@ using namespace std;
 /*
  * _HashTableWithLinkedList is hash-table with doubly linked list.
  *
- * This implementaion was done by me.
+ * This implementaion was done by me .
  *
- * In test.cpp, this will work well.
+ * In test.cpp, this works well.
  * */
 
 namespace HashTable {
