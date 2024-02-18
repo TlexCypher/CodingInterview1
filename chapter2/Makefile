@@ -18,4 +18,7 @@ CC = g++
 	$(CC) -o $@ $^
 
 2-7.o: 2-7.cpp linked_list.cpp
-	$(CC) -o $@ $^
+
+.PHONY: clean
+clean: 
+	rm -rf *.o a.out
